@@ -1,7 +1,7 @@
 {
   "name": "co-promisify",
   "description": "wrap a generator to make it a promise returning function",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)",
   "license": "GPLv3",
   "repository": "Swatinem/co-promisify",
@@ -14,6 +14,6 @@
   },
   "scripts": {
     "build": "node --harmony node_modules/.bin/nlz build --standalone co",
-    "test": "npm run-script build && mocha --harmony --reporter spec --bail",
+    "test": "npm run-script build && mocha --harmony --reporter spec --bail"
   }
 }
