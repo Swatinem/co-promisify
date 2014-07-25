@@ -1,7 +1,7 @@
 {
   "name": "co-promisify",
   "description": "wrap a generator to make it a promise returning function",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "author": "Arpad Borsos <arpad.borsos@googlemail.com> (http://swatinem.de)",
   "license": "GPLv3",
   "repository": "Swatinem/co-promisify",
